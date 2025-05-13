@@ -36,17 +36,10 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saqibniazi47&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqibniazi47&theme=tokyonight" width="47%" />
-</p>
-
----
 
 ### 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/saqib-niazi](https://www.linkedin.com/in/saqib-niazi/)
-- Email: saqibniazi47@gmail.com
+- Email: niazisaqib991@gmail.com
 
 ---
 
