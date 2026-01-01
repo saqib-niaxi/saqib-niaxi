@@ -60,7 +60,7 @@
 
 - 📩 **Email**: niazisaqib991@gmail.com  
 - 💼 **LinkedIn**: [linkedin.com/in/saqib-niazi](https://www.linkedin.com/in/saqib-niazi/)
-- 💻 **GitHub**: [github.com/niazisaqib991](https://github.com/niazisaqib991)
+- 💻 **Website**: [https://saqibniazi.vercel.app/](https://saqibniazi.vercel.app/)
 
 ---
 
