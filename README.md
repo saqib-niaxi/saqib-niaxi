@@ -32,8 +32,8 @@ I am an **AI Software Developer** passionate about bridging the gap between adva
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saqib-niaxi&show_icons=true&theme=transparent&hide_border=true&title_color=0D9488&icon_color=F5C518&text_color=9CA3AF" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib-niaxi&layout=compact&theme=transparent&hide_border=true&title_color=0D9488&text_color=9CA3AF" height="150" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niazisaqib991&show_icons=true&theme=transparent&hide_border=true&title_color=0D9488&icon_color=F5C518&text_color=9CA3AF" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niazisaqib991&layout=compact&theme=transparent&hide_border=true&title_color=0D9488&text_color=9CA3AF" height="150" alt="top langs" />
 </p>
 
 ---
