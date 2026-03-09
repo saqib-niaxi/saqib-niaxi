@@ -28,7 +28,6 @@ I am an **AI Software Developer** passionate about bridging the gap between adva
 | **Mobile App Dev** | `Flutter` `Dart` `Firebase` |
 | **Tools & DevOps** | `Git` `GitHub` `Docker` `Google Cloud (GCP)` `Linux` |
 
----
 
 
 ---
