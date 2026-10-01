@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-I am an **AI Software Developer** passionate about bridging the gap between advanced Machine Learning and user-centric software. Currently, I am building real-world AI solutions at **Zaytrics** (NSTP NUST) and specializing in **Agentic AI** to create autonomous digital employees.
+I am an **AI Software Developer** passionate about bridging the gap between advanced Machine Learning and user-centric software. Currently, I am building real-world AI solutions at **Devsinc**  and specializing in **Agentic AI** to create autonomous digital employees.
 
 - 🔭 **Currently Working on**: AI/MLEngineer working at **Zaytrics**.
 - 🤖 **Agentic AI**: Enrolled in the **PIAIC CAARE** program, building autonomous AI Agents and Robotic systems.
