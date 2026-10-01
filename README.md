@@ -11,7 +11,7 @@
 ### 🚀 About Me
 I am an **AI Software Developer** passionate about bridging the gap between advanced Machine Learning and user-centric software. Currently, I am building real-world AI solutions at **Devsinc**  and specializing in **Agentic AI** to create autonomous digital employees.
 
-- 🔭 **Currently Working on**: AI/MLEngineer working at **Zaytrics**.
+- 🔭 **Currently Working on**: AI/MLEngineer working at **Devsinc**.
 - 🤖 **Agentic AI**: Enrolled in the **PIAIC CAARE** program, building autonomous AI Agents and Robotic systems.
 - 🏏 **Core Project**: Developed an AI-powered **Batting Analysis System** using Computer Vision.
 - ⚡ **Fun Fact**: I believe code is the ultimate tool to turn complex ideas into reality.
